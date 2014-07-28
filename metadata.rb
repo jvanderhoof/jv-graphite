@@ -1,0 +1,10 @@
+name             'jv-graphite'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures jv-graphite'
+long_description 'Installs/Configures jv-graphite'
+version          '0.1.0'
+
+depends 'graphite'
+depends 'apt'
